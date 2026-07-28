@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" alt="Deloitte Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/1200px-Deloitte.svg.png" alt="Deloitte Logo" width="200"/>
   <h1>✈️ AeroSentix: British Airways Passenger Sentiment Analytics</h1>
   <p><i>A corporate data analytics project analyzing passenger sentiment and airline performance.</i></p>
   
@@ -14,7 +14,7 @@
 
 <div align="center">
   <!-- PLACEHOLDER FOR MAIN DASHBOARD PREVIEW -->
-  <img src="https://via.placeholder.com/1000x500.png?text=Main+Tableau+Dashboard+Preview" alt="Dashboard Preview" width="800"/>
+  <img src="https://placehold.co/1000x500.png?text=Main+Tableau+Dashboard+Preview" alt="Dashboard Preview" width="800"/>
 </div>
 
 ---
@@ -47,19 +47,19 @@ This project includes a series of corporate-standard Tableau dashboards designed
 ### 1. Executive Summary & Sentiment Overview
 Provides a high-level view of overall passenger satisfaction, Net Promoter Score (NPS) approximations, and time-series trends of ratings.
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Executive+Summary+Dashboard" alt="Executive Summary" width="600"/>
+  <img src="https://placehold.co/800x400.png?text=Executive+Summary+Dashboard" alt="Executive Summary" width="600"/>
 </div>
 
 ### 2. Service Quality Deep-Dive
 Analyzes the breakdown of ratings across different service pillars (Food & Beverage, Seat Comfort, Cabin Staff) across different classes (Economy, Business, First).
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Service+Quality+Analysis" alt="Service Quality" width="600"/>
+  <img src="https://placehold.co/800x400.png?text=Service+Quality+Analysis" alt="Service Quality" width="600"/>
 </div>
 
 ### 3. Route & Aircraft Performance
 Geographic and fleet-specific performance metrics to identify underperforming routes or specific aircraft models (e.g., A380 vs. A320) that require attention.
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Route+and+Aircraft+Performance" alt="Aircraft Dashboard" width="600"/>
+  <img src="https://placehold.co/800x400.png?text=Route+and+Aircraft+Performance" alt="Aircraft Dashboard" width="600"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ Geographic and fleet-specific performance metrics to identify underperforming ro
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/aerosentix-ba-analytics.git
+   git clone https://github.com/dhruvt293/British-Airways-Sentiment-Analysis.git
    ```
 2. Ensure you have **Tableau Desktop** or **Tableau Reader** installed.
 3. Open the `.twbx` (Tableau Packaged Workbook) file located in the repository.
