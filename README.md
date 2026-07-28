@@ -1,21 +1,18 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/1200px-Deloitte.svg.png" alt="Deloitte Logo" width="200"/>
-  <h1>✈️ AeroSentix: British Airways Passenger Sentiment Analytics</h1>
-  <p><i>A corporate data analytics project analyzing passenger sentiment and airline performance.</i></p>
-  
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-  ![Data Analytics](https://img.shields.io/badge/Data_Analytics-005587?style=for-the-badge&logo=data-datacamp&logoColor=white)
-  ![Deloitte Project](https://img.shields.io/badge/Deloitte-Simulation-86BC25?style=for-the-badge)
-</div>
+# ✈️ AeroSentix: British Airways Passenger Sentiment Analytics
+
+![Deloitte Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/1200px-Deloitte.svg.png)
+
+_A corporate data analytics project analyzing passenger sentiment and airline performance._
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-005587?style=for-the-badge&logo=data-datacamp&logoColor=white)
+![Deloitte Project](https://img.shields.io/badge/Deloitte-Simulation-86BC25?style=for-the-badge)
 
 ## 📑 Project Overview
 
 **AeroSentix** is a comprehensive Data Analytics project developed as part of a **Deloitte** corporate assignment. The core objective of this project is to analyze thousands of passenger reviews for British Airways to uncover underlying sentiments, evaluate key performance indicators (KPIs), and present actionable business insights to stakeholders through interactive **Tableau** dashboards.
 
-<div align="center">
-  <!-- PLACEHOLDER FOR MAIN DASHBOARD PREVIEW -->
-  <img src="https://placehold.co/1000x500.png?text=Main+Tableau+Dashboard+Preview" alt="Dashboard Preview" width="800"/>
-</div>
+![Main Tableau Dashboard Preview](https://dummyimage.com/1000x500/000000/86bc25.png&text=Main+Tableau+Dashboard+Preview)
 
 ---
 
@@ -46,21 +43,18 @@ This project includes a series of corporate-standard Tableau dashboards designed
 
 ### 1. Executive Summary & Sentiment Overview
 Provides a high-level view of overall passenger satisfaction, Net Promoter Score (NPS) approximations, and time-series trends of ratings.
-<div align="center">
-  <img src="https://placehold.co/800x400.png?text=Executive+Summary+Dashboard" alt="Executive Summary" width="600"/>
-</div>
+
+![Executive Summary](https://dummyimage.com/800x400/000000/86bc25.png&text=Executive+Summary+Dashboard)
 
 ### 2. Service Quality Deep-Dive
 Analyzes the breakdown of ratings across different service pillars (Food & Beverage, Seat Comfort, Cabin Staff) across different classes (Economy, Business, First).
-<div align="center">
-  <img src="https://placehold.co/800x400.png?text=Service+Quality+Analysis" alt="Service Quality" width="600"/>
-</div>
+
+![Service Quality](https://dummyimage.com/800x400/000000/86bc25.png&text=Service+Quality+Analysis)
 
 ### 3. Route & Aircraft Performance
 Geographic and fleet-specific performance metrics to identify underperforming routes or specific aircraft models (e.g., A380 vs. A320) that require attention.
-<div align="center">
-  <img src="https://placehold.co/800x400.png?text=Route+and+Aircraft+Performance" alt="Aircraft Dashboard" width="600"/>
-</div>
+
+![Aircraft Dashboard](https://dummyimage.com/800x400/000000/86bc25.png&text=Route+and+Aircraft+Performance)
 
 ---
 
@@ -92,6 +86,4 @@ Geographic and fleet-specific performance metrics to identify underperforming ro
 
 ---
 
-<div align="center">
-  <i>This project was completed as part of a Deloitte Data Analytics simulation. The data utilized is publicly available and for educational/demonstration purposes.</i>
-</div>
+*This project was completed as part of a Deloitte Data Analytics simulation. The data utilized is publicly available and for educational/demonstration purposes.*
